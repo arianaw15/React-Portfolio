@@ -1,0 +1,17 @@
+.header{
+    height: 200px;
+    width: 100%;
+    background-color:#efece6;
+}
+
+h1{
+    padding: 10px;
+    font-size: 100px;
+    color:#e5be9e;
+    font-family: 'Molle', cursive;
+}
+hr{
+    color: #361d2e;
+   width: 100%;
+   size: 100px;
+}
