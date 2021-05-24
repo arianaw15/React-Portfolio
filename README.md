@@ -22,6 +22,6 @@ Contact Page
 
 # Links
 
-- Repository: https://github.com/arianaw15/Portfolio
-- Portfolio Homepage: https://arianaw15.github.io/Portfolio/
+- Repository: https://github.com/arianaw15/React-Portfolio
+- Portfolio Homepage: https://ariana-react-portfolio.herokuapp.com/
 - LinkedIn: https://www.linkedin.com/in/ariana-winters-63455215b/
