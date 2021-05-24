@@ -4,26 +4,24 @@ The portfolio allows the user to view my resume, important projects, and links t
 
 # Features
 
-The portfolio integrates Javascript to remove the need for multiple HMTL documents. It includes an iframe resume as well as active buttons that allow the user to view important projects. 
+The portfolio uses a react framework to allow for simple navigation between pages and clean code. 
 
 # Images
 
 About Me Page
-![About Me page with introduction and professional photo](/Assets/Aboutme.PNG)
+![About Me page with introduction and professional photo](public/Assets/homepage.PNG)
 
 Resume Page
-![Resume page with embedded resume](/Assets/resume.PNG)
+![Resume page with embedded resume](public/Assets/resumepage.PNG)
 
 Project Page
-![Project page with 3 project images and button links](/Assets/projects.PNG)
+![Project page with 3 project images and button links](public/Assets/projectpage.PNG)
 
 Contact Page
-![Contact page with contact form and links to github and linkedin](/Assets/contact.PNG)
+![Contact page with contact form and links to github and linkedin](public/Assets/contactpage.PNG)
 
 # Links
 
 - Repository: https://github.com/arianaw15/Portfolio
 - Portfolio Homepage: https://arianaw15.github.io/Portfolio/
 - LinkedIn: https://www.linkedin.com/in/ariana-winters-63455215b/
-
-# License

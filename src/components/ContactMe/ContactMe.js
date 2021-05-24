@@ -20,15 +20,6 @@ function ContactMe() {
   </Form.Group>
   <Button className="submitbtn">Submit</Button>
 </Form>
-<hr/>
-<div class="contactMe">
-          To see more of my projects, find me here!
-          <br/>
-          <a href="https://github.com/arianaw15" target="_blank">GitHub</a>
-          <br/>
-          <a href="https://www.linkedin.com/in/ariana-winters-63455215b/"
-              target="_blank">LinkedIn</a>
-        </div>
 </Container>
     )
 }
