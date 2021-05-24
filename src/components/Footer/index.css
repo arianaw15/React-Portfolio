@@ -1,0 +1,14 @@
+hr{
+    color: #361d2e;
+   width: 100%;
+   size: 100px;
+}
+#footerContainer{
+    background-color: #e5be9e;
+    position: relative;
+    height: 10vh;
+}
+.contactMe{
+    font-family: 'Padauk', sans-serif;
+    color: #efece6;
+}

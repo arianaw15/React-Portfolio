@@ -7,6 +7,7 @@ import Resume from './components/Resume/Resume';
 import ContactMe from './components/ContactMe/ContactMe';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './index.css'
+import Footer from './components/Footer/Footer'
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
         <Route exact path="/ContactMe" component={ContactMe} />
       </Switch>
     </Router>
+    <Footer />
     </div>
   );
 }

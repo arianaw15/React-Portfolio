@@ -1,5 +1,5 @@
 import React from 'react'
-import {Container, Row, Col, Image} from 'react-bootstrap'
+import {Container, Row, Col, Image, Button} from 'react-bootstrap'
 import './index.css'
 import profile from './profile-pic.jpg'
 
@@ -20,6 +20,7 @@ function Home() {
             programs and future launches and expansions. I've developed clear and concise communication skills which is
             crucial for a positive experience both for the partner and our joint Customers. I'm comfortable leading
             projects and working with stakeholders to gain buy in and requirements for a successful implementation. 
+            <hr/>
     </Col>
   </Row>
 </Container>
