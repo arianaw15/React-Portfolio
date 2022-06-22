@@ -1,5 +1,5 @@
 import React from 'react'
-import resume from './Resume-Updated.pdf'
+import resume from './Ariana-Winters-Resume.pdf'
 import './index.css'
 
 function Resume() {
