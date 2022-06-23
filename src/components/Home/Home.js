@@ -15,7 +15,7 @@ function Home() {
             camping and spend the majority of my summers doing both with my 2 year old dog, Flynn. I'm incredibly passionate about health and wellness so you can usually find me training for my next body building competition or race. I also enjoy traveling and trying new foods, the most exotic being live termites directly from the tree in Peru.
             <hr/>
           I'm currently a Junior Software Engineer with a focus on front end. Most notably I've collaborated with my team to develop a centralized UI component library using React.JS, HTML5, CSS3, and JavaScript and migrated all Sass styles. Additionally I'm a passionate lifelong learner and have taken on the task of learning additional skills such as Python, Typescript, and Docker so that I have a better understanding of our software as a whole. 
-
+            <hr/>
           As a personal project I'm currently working on building a home media server using Docker and Ubuntu. I've enjoyed the challenge and will be sure to update this portfolio with the completed results. 
             <hr/>
     </Col>
